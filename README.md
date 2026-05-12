@@ -12,16 +12,16 @@ A modern and responsive authentication interface built using HTML, CSS, JavaScri
 
 # ✨ Features
 
-🔒 Login Authentication UI
-📝 Registration Form
-🔑 Forgot Password Page
-👁️ Show / Hide Password
-🎨 Glassmorphism Design
-📱 Fully Responsive Layout
-⚡ Smooth Animations & Hover Effects
-🔔 Toast Notifications
-✅ Form Validation
-🌌 Animated Background Effects
+-🔒 Login Authentication UI
+-📝 Registration Form
+-🔑 Forgot Password Page
+-👁️ Show / Hide Password
+-🎨 Glassmorphism Design
+-📱 Fully Responsive Layout
+-⚡ Smooth Animations & Hover Effects
+-🔔 Toast Notifications
+-✅ Form Validation
+-🌌 Animated Background Effects
 
 ---
 
